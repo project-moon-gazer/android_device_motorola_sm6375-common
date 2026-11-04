@@ -1,5 +1,5 @@
 # Audio
-audio.deep_buffer.media=true
+audio.deep_buffer.media=false
 audio.offload.disable=false
 audio.offload.gapless.enabled=false
 audio.offload.min.duration.secs=60
